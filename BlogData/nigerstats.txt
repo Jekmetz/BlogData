@@ -1,0 +1,5 @@
+File that was searched: niger.txt
+Pattern that was searched: (ni+g+er)
+Filtered Word Count: 1
+Total Word Count: 799
+Ratio of Search: 0.1251564455569462

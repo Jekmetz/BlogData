@@ -1,0 +1,5 @@
+File that was searched: ass.txt
+Pattern that was searched: (ass+)
+Filtered Word Count: 33
+Total Word Count: 799
+Ratio of Search: 4.130162703379224

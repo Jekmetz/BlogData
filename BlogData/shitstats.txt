@@ -1,0 +1,5 @@
+File that was searched: shit.txt
+Pattern that was searched: (bull)?(sh+i*t+)(poster)?(pool)?
+Filtered Word Count: 199
+Total Word Count: 799
+Ratio of Search: 24.90613266583229

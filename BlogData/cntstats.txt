@@ -1,0 +1,5 @@
+File that was searched: cnt.txt
+Pattern that was searched: (cu+n+t+)
+Filtered Word Count: 0
+Total Word Count: 799
+Ratio of Search: 0.0

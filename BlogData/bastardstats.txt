@@ -1,0 +1,5 @@
+File that was searched: bastard.txt
+Pattern that was searched: (bastard)
+Filtered Word Count: 12
+Total Word Count: 799
+Ratio of Search: 1.5018773466833542

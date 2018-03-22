@@ -1,0 +1,5 @@
+File that was searched: fuck.txt
+Pattern that was searched: (f[eu]*c*k+)(i*ng)?(ed)?
+Filtered Word Count: 262
+Total Word Count: 799
+Ratio of Search: 32.7909887359199%

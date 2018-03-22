@@ -1,0 +1,5 @@
+File that was searched: cuock.txt
+Pattern that was searched: (c[uo]+c+k+)
+Filtered Word Count: 82
+Total Word Count: 799
+Ratio of Search: 10.262828535669586

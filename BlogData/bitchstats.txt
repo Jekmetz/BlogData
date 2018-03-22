@@ -1,0 +1,5 @@
+File that was searched: bitch.txt
+Pattern that was searched: (b[ie]+t+c+h+)
+Filtered Word Count: 17
+Total Word Count: 799
+Ratio of Search: 2.127659574468085

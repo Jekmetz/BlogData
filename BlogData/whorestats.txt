@@ -1,0 +1,5 @@
+File that was searched: whore.txt
+Pattern that was searched: (wh+o+r+e)
+Filtered Word Count: 4
+Total Word Count: 799
+Ratio of Search: 0.5006257822277848

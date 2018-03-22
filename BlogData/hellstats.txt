@@ -1,0 +1,5 @@
+File that was searched: hell.txt
+Pattern that was searched: (he+ll+)
+Filtered Word Count: 77
+Total Word Count: 799
+Ratio of Search: 9.637046307884855
